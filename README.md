@@ -9,8 +9,6 @@ Guy who Look the information technology in a different orientation to craft the 
 
 • FrameWorks                                                                                                                                                                                                           > Spring Boot                                                                                                                                                                                                   > React.js
 
-• Platform
- [LinkedIn](https://www.linkedin.com/in/thangatamil-a-794a632a3/) amil](https://www.linkedin.com/in/thangatamil-a-794a632a3/)
+• Platform to Connect
 
-
-
+[LinkedIn](https://www.linkedin.com/in/thangatamil-a-794a632a3/)
