@@ -5,18 +5,17 @@ Guy who Look the information technology in a different orientation to craft the 
 • I use NeoVim as my primary IDE
 
 • Languages that I use to do coding 
-      • Java      
-      • JavaScript
-      • Python
+      
+      > Java      
+      
+      > JavaScript
+      
+      > Python
 
 • FrameWorks
-      •> Spring Boot
-      •> React.js
 
-• Platforms to Search out
+      > Spring Boot
+      
+      > React.js
+
 [LinkedIn](https://www.linkedin.com/in/thangatamil-a-794a632a3/)
-
-
-
-          
-Dot Symbol (•)
