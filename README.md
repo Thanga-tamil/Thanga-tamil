@@ -2,18 +2,15 @@ Thangatamil
 
 Guy who Look the information technology in a different orientation to craft the efficient way to code and develop awesome environment
 
-• I use [NeoVim](https://neovim.io/) as my primary IDE for coding.
-• **Languages**: Languages that I use to do coding
-  > Java
-  > JavaScript
-  > Python
-- *Frameworks*:
-  > Spring Boot
-  > React.js
+• I use NeoVim as my primary IDE
 
-## Platforms to Connect
+• Languages that I use to do coding                                                                                                                                                                                   > Java                                                                                                                                                                                                    
+      > JavaScript                                                                                                                                                                                                    > Python                                                                                                                                   
 
-- **LinkedIn**: [Thangatamil](https://www.linkedin.com/in/thangatamil-a-794a632a3/)
+• FrameWorks                                                                                                                                                                                                           > Spring Boot                                                                                                                                                                                                   > React.js
+
+• Platform
+ [LinkedIn](https://www.linkedin.com/in/thangatamil-a-794a632a3/) amil](https://www.linkedin.com/in/thangatamil-a-794a632a3/)
 
 
 
