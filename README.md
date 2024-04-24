@@ -6,7 +6,8 @@ Guy who Look the information technology in a different orientation to craft the 
 • Languages that I use to do coding                                                                                                                                                                            
 >*Java*                                                                                                                                                                                                         
 >*JavaScript*                                                                                                                                                                                                   
->*Python*                                                                                                                                   
+>*Python*
+                                                                                                                        
 • FrameWorks that I use                                                                                                                                                                                         
 >*Spring Boot*                                                                                                                                                                                                  
 >*React.js*
