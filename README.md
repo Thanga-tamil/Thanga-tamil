@@ -1,12 +1,20 @@
+Thangatamil
 
-Here are some ideas to get you started:
+Guy who Look the information technology in a different orientation to craft the efficient way to code and develop awesome environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+• I use NeoVim as my primary IDE
+• Languages that I use to do coding 
+      > Java
+      > JavaScript
+      > Python
+• FrameWorks
+      > Spring Boot
+      > React.js
 
+• Platforms to Search out
+[LinkedIn](https://www.linkedin.com/in/thangatamil-a-794a632a3/)
+
+
+
+          
+Dot Symbol (•)
