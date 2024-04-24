@@ -1,6 +1,6 @@
 Thangatamil
 
-Guy who Look the information technology in a different orientation to craft the efficient way to code and develop awesome environment
+Guy who Look the information technology in a different orientation to craft the efficient way to code to develop awesome environment
 
 • I use NeoVim as my primary IDE
 
