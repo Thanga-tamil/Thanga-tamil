@@ -9,7 +9,7 @@ Guy who Look the information technology in a different orientation to craft the 
 • *JavaScript*                                                                                                                                                                                                  
 • *Python*                                                                                                                                   
 
-• FrameWorks                                                                                                                                                                                                  
+• FrameWorks that I use                                                                                                                                                                                         
 • *Spring Boot*                                                                                                                                                                                                 
 • *React.js*
 
