@@ -5,8 +5,9 @@ Guy who Look the information technology in a different orientation to craft the 
 • I use NeoVim as my primary IDE
 
 • Languages that I use to do coding 
-      > Java
+      > Java      
       > JavaScript
+      
       > Python
 
 • FrameWorks
