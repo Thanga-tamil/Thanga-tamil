@@ -1,4 +1,4 @@
-Guy who look the information technology in a different orientation to craft the efficient way to code and to enjoy the development in a awesome enviroment.
+Guy who look the information technology in a different orientation to craft the efficient way to code and to enjoy the development in an awesome enviroment.
 
 - Programmer btw :)
 - Vim user btw :)
