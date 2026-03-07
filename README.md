@@ -1,4 +1,4 @@
-Guy who look the information technology in a different orientation to craft the efficient way of architecting and to enjoy the development in a awesome enviroment.
+Guy who look the information technology in a different orientation to craft the efficient way for architecting and to enjoy the development in a awesome enviroment.
 
 - Solution Architecture btw :)
 - Programmer btw :)
