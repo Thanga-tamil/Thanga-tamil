@@ -1,8 +1,6 @@
-Guy who look the information technology in a different orientation to craft the efficient way to do the development in a awesome enviroment.
+curation of life on me:
+        I like to create things, I like to make things work and run right, I learn and share information with other people to keep the circumstances good and health. I architect, orchestrate: things and I do programming too.
 
-- Solution Architecture btw :)
-- Programmer btw :)
-- Vim user btw :)
+have a beautiful day :)
 
-Platform To Connect..
-https://www.linkedin.com/in/thangatamil-a-794a632a3/
+platform to connect: https://www.linkedin.com/in/thangatamil-a-794a632a3/
