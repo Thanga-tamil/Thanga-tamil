@@ -1,5 +1,5 @@
 
-Guy who look the information technology in a different orientation to craft the efficient way to do the development in a awesome envinroment. I like to create.
+Guy who look the information technology in a different orientation to craft the efficient way to do the development in a awesome environment.
 
 - Architect btw
 - Programmer btw
