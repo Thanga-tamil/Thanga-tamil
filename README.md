@@ -6,8 +6,12 @@ Guy who look the information technology in a different orientation to craft the 
 - Orchestrating software btw
 
 
-platform to connect: https://www.linkedin.com/in/thangatamil-a-794a632a3/
+send a mail: mailto:thangatamil1177@gmail.com
 
 portfolio https://thanga-tamil.github.io/portfolio/
 
-send a mail: mailto:thangatamil1177@gmail.com
+platform to connect: https://www.linkedin.com/in/thangatamil-a-794a632a3/
+
+
+
+
