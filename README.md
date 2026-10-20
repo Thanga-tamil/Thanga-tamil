@@ -1,5 +1,5 @@
 
-Solving people's problems
+Solving problems
 
 - Architect btw
 - Programmer btw
